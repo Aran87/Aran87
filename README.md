@@ -21,10 +21,10 @@ Entorno: VS Code
 
 ## 🚀 Proyectos destacados
 
-# 📊 Atlas – Exploración de Datos
+### 📊 Atlas – Exploración de Datos
 Análisis descriptivo de datos estructurados utilizando Google Sheets. Limpieza, métricas clave y conclusiones accionables.
 
-# 🐍 Kepler – Fundamentos de Python
+### 🐍 Kepler – Fundamentos de Python
 Ejercicios prácticos orientados a lógica de programación y manipulación de datos.
 
 ## 📫 Contacto
