@@ -1,6 +1,6 @@
 ## Hola 👋 Soy Arantxa 
 
-Analista de datos en formación, que os da la bienvenida a mi perfil.\n 
+Analista de datos en formación, que os da la bienvenida a mi perfil.
 Actualmente cursando un bootcamp intensivo donde estoy aprendiendo análisis de datos, programación y visualización. Mi objetivo es transformar los datos en decisiones claras que generen impacto. 
 Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comercial, pensamiento analítico aplicado y orientación a métricas.
 
