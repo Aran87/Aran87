@@ -4,13 +4,23 @@ Analista de datos en formación, que os da la bienvenida a mi perfil.
 Actualmente cursando un bootcamp intensivo donde estoy aprendiendo análisis de datos, programación y visualización. Mi objetivo es transformar los datos en decisiones claras que generen impacto. 
 Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comercial, pensamiento analítico aplicado y orientación a métricas.
 
-#### 🛠️ Stack técnico
+#### 🛠️ Tech Stack
 
-Lenguajes: Python, SQL
-Análisis: Excel, Google Sheets
-Visualización: Tableau (en progreso)
-Control de versiones: Git & GitHub
-Entorno: VS Code
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 📈 Estadísticas de GitHub
+
+![Stats de Arantxa](https://github-readme-stats.vercel.app/api?username=Aran87&show_icons=true&theme=tokyonight)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Aran87&layout=compact&theme=tokyonight)
+
+## 🔥 Mi racha en GitHub
+
+![Racha](https://github-readme-streak-stats.herokuapp.com/?user=Aran87&theme=radical)
 
 #### 📚 Actualmente aprendiendo
 
