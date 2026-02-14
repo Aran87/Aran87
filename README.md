@@ -8,9 +8,12 @@ Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comerc
 
 #### 🛠️ Habilidades técnicas
 
-**Lenguajes:** Python(\n)
+**Lenguajes:** Python
+
 **Análisis:** Excel 
-**Visualización:** (en progreso)  
+
+**Visualización:** (en progreso) 
+
 **Otros:** Git, GitHub, VS Code
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,8 +25,11 @@ Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comerc
 #### 📚 Actualmente aprendiendo
 
 🐍 Python aplicado a análisis de datos (Pandas, NumPy)
+
 🗃️ Consultas SQL y modelado relacional
+
 📊 Visualización efectiva para toma de decisiones
+
 📈 Estadística aplicada al negocio
 
 #### 🚀 Proyectos destacados
@@ -37,6 +43,7 @@ Ejercicios prácticos orientados a lógica de programación y manipulación de d
 #### 📫 Contacto
 
 Email: arantxamaquia@gmail.com
+
 GitHub: Estás aquí 😊
 
 #### ⚡ Dato curioso
