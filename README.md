@@ -4,7 +4,7 @@ Analista de datos en formación, que os da la bienvenida a mi perfil.
 Actualmente cursando un bootcamp intensivo donde estoy aprendiendo análisis de datos, programación y visualización. Mi objetivo es transformar los datos en decisiones claras que generen impacto. 
 Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comercial, pensamiento analítico aplicado y orientación a métricas.
 
-#### 🛠️ Tech Stack
+#### 🛠️ Habilidades técnicas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
