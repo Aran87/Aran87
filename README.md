@@ -15,12 +15,12 @@ Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comerc
 
 ## 📈 Estadísticas de GitHub
 
-![Stats de Arantxa](https://github-readme-stats.vercel.app/api?username=Aran87&show_icons=true&theme=highcontrast)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Aran87&layout=compact&theme=highcontrast)
+![Stats de Arantxa](https://github-readme-stats.vercel.app/api?username=Aran87&show_icons=true&theme=cobalt)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Aran87&layout=compact&theme=cobalt)
 
 ## 🔥 Mi racha en GitHub
 
-![Racha](https://github-readme-streak-stats.herokuapp.com/?user=Aran87&theme=highcontrast)
+![Racha](https://github-readme-streak-stats.herokuapp.com/?user=Aran87&theme=cobalt)
 
 #### 📚 Actualmente aprendiendo
 
