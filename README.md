@@ -8,7 +8,7 @@ Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comerc
 
 #### 🛠️ Habilidades técnicas
 
-**Lenguajes:** Python
+**Lenguajes:** Python(\n)
 **Análisis:** Excel 
 **Visualización:** (en progreso)  
 **Otros:** Git, GitHub, VS Code
