@@ -13,6 +13,7 @@ Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comerc
 **Visualización:** (en progreso)  
 **Otros:** Git, GitHub, VS Code
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
