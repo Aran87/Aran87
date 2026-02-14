@@ -15,12 +15,12 @@ Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comerc
 
 ## 📈 Estadísticas de GitHub
 
-![Stats de Arantxa](https://github-readme-stats.vercel.app/api?username=Aran87&show_icons=true&theme=tokyonight)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Aran87&layout=compact&theme=tokyonight)
+![Stats de Arantxa](https://github-readme-stats.vercel.app/api?username=Aran87&show_icons=true&theme=dark)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Aran87&layout=compact&theme=dark)
 
 ## 🔥 Mi racha en GitHub
 
-![Racha](https://github-readme-streak-stats.herokuapp.com/?user=Aran87&theme=radical)
+![Racha](https://github-readme-streak-stats.herokuapp.com/?user=Aran87&theme=dark)
 
 #### 📚 Actualmente aprendiendo
 
@@ -46,4 +46,4 @@ GitHub: Estás aquí 😊
 
 Me encanta analizar patrones, tanto en números como en comportamiento humano.
 Vengo del mundo del emprendimiento, así que entiendo que los datos deben servir para vender mejor, no solo para hacer gráficos bonitos.
-El café es parte del pipeline de producción ☕
+El café es parte del pipeline de producción.
