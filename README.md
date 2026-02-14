@@ -9,8 +9,11 @@ Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comerc
 #### 🛠️ Habilidades técnicas
 
 **Lenguajes:** Python
-**Análisis:** Excel  
-**Visualización:** (en progreso)  
+
+**Análisis:** Excel 
+
+**Visualización:** (en progreso) 
+ 
 **Otros:** Git, GitHub, VS Code
 
 
@@ -23,8 +26,11 @@ Vengo del mundo del emprendimiento y las ventas, lo que me aporta visión comerc
 #### 📚 Actualmente aprendiendo
 
 🐍 Python aplicado a análisis de datos (Pandas, NumPy)
+
 🗃️ Consultas SQL y modelado relacional
+
 📊 Visualización efectiva para toma de decisiones
+
 📈 Estadística aplicada al negocio
 
 #### 🚀 Proyectos destacados
@@ -43,7 +49,9 @@ GitHub: Estás aquí 😊
 #### ⚡ Dato curioso
 
 Me encanta analizar patrones, tanto en números como en comportamiento humano.
+
 Vengo del mundo del emprendimiento, así que entiendo que los datos deben servir para vender mejor, no solo para hacer gráficos bonitos.
+
 El café es parte del pipeline de producción.
 
 #### 📈 Estadísticas de GitHub
